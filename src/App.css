@@ -1,0 +1,13 @@
+.invalid {
+  border: 1px solid red !important;
+}
+
+input, textarea {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+h1 {
+  background-color: black;
+  text-decoration: burlywood !important;
+}
